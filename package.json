@@ -19,6 +19,7 @@
     "inert": "^4.2.1",
     "joi": "^13.7.0",
     "jsonwebtoken": "^8.5.1",
+    "multiparty": "^4.2.1",
     "mysql2": "^2.0.0",
     "package": "^1.0.1",
     "sequelize": "^5.21.2",
