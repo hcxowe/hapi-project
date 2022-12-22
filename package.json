@@ -18,7 +18,7 @@
     "hapi-swagger": "^7.10.0",
     "inert": "^4.2.1",
     "joi": "^13.7.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "multiparty": "^4.2.1",
     "mysql2": "^2.0.0",
     "package": "^1.0.1",
